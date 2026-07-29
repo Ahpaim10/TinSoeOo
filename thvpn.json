@@ -1,5 +1,6 @@
 {
-  "Version": "30",
-  "ReleaseNotes": "ဗားရှင်းအသစ် ထွက်ရှိပါပြီ။ ဆက်လက်အသုံးပြုရန် Telegram မှ တဆင့် Download ရယူပါ။",
+  "Version": "25",
+  "force_update": true,
+  "ReleaseNotes": "ဗားရှင်းအသစ် ထွက်ရှိပါပြီ။",
   "contactSupport": "https://t.me/ahpaim123"
 }
